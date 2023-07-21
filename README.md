@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm Bilal Ahmad. I have recently completed my bachelor's degree in **BSCS** from Punjab Univerity Gujranwala Campus [**(PUGC)**](https://pugc.edu.pk/website/) and I am eagerly awaiting the official graduation ceremony and final result. I am an expert in Python and AI/ML/DL Enthusiast. I love to be involved and explore technology like the emerging field of Artificial Intelligence which will be probably the next level technological era.
+I'm Bilal Ahmad. I have recently completed my bachelor's degree in **BSCS** from Punjab Univerity Gujranwala Campus [**(PUGC)**](https://pugc.edu.pk/website/). I have successfully achieved my Graduation milestone scoring a 3.6 CGPA. I am an expert in Python and AI/ML/DL Enthusiast. I love to be involved and explore technology like the emerging field of Artificial Intelligence which will be probably the next level technological era.
 
 ## 🛠 Skills
 
