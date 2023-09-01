@@ -30,7 +30,8 @@ I'm Bilal Ahmad. I have recently completed my bachelor's degree in **BSCS** from
 
 ## 💳 Github Profile Summary 
 ![card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalansar3&theme=github)
-![trophy](https://github-profile-trophy.vercel.app/?username=bilalansar3)
+
+[trophy](https://github-profile-trophy.vercel.app/?username=bilalansar3)
 
 ![]()
 
