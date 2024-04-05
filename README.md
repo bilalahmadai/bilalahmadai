@@ -42,5 +42,5 @@
 
 ## 🔗 Get In Touch
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalahmad3/)
-[![github](https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilalansar3)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalahmadai/)
+[![github](https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilalahmadai)
