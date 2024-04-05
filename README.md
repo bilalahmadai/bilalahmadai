@@ -1,8 +1,12 @@
 # Hi, I'm Bilal Ahmad! 👋
 
 ## 🚀 About Me
+ I'm a results-driven Machine Learning Engineer specializing in developing APIs and training models with exceptional accuracy. With a keen focus on research and development, I ensure smooth integration and functionality of deployed models and algorithms within product solutions.
+<details open>
+  <summary>Interest:</summary>
+   I love to be involved and explore technology like the emerging field of Artificial Intelligence which will probably be the next level technological era.
+</details>
 
-I'm Bilal Ahmad. I have recently completed my bachelor's degree in **BSCS** from Punjab Univerity Gujranwala Campus [**(PUGC)**](https://pugc.edu.pk/website/). I have successfully achieved my Graduation milestone scoring a 3.6 CGPA. I am an expert in Python and AI/ML/DL Enthusiast. I love to be involved and explore technology like the emerging field of Artificial Intelligence which will be probably the next level technological era.
 
 ## 🛠 Skills
 
@@ -29,9 +33,9 @@ I'm Bilal Ahmad. I have recently completed my bachelor's degree in **BSCS** from
 ![js](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## 💳 Github Profile Summary 
-![card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalansar3&theme=github)
+![card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalahmadai&theme=github)
 
-[trophy](https://github-profile-trophy.vercel.app/?username=bilalansar3)
+[trophy](https://github-profile-trophy.vercel.app/?username=bilalahmadai)
 
 ![]()
 
