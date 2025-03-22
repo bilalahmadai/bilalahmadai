@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Bilal Ahmad!
-📌 **Machine Learning Engineer | NLP & AI Specialist | FastAPI/Software Developer**
+📌 **Machine Learning Engineer | LLM & Generative AI Specialist | FastAPI & AI Application Developer**
 
 I specialize in **building AI-driven solutions** that transform unstructured data into actionable insights.  
 My expertise spans **NLP, Computer Vision, RAG systems, and AI-powered automation**, ensuring that models deliver **high accuracy and seamless integration** in production environments.
