@@ -1,46 +1,59 @@
-# Hi, I'm Bilal Ahmad! 👋
+# 👋 Hi, I'm Bilal Ahmad!
+📌 **Machine Learning Engineer | NLP & AI Specialist | FastAPI/Software Developer**
 
-## 🚀 About Me
- I'm a results-driven Machine Learning Engineer specializing in developing APIs and training models with exceptional accuracy. With a keen focus on research and development, I ensure smooth integration and functionality of deployed models and algorithms within product solutions.
-<details open>
-  <summary>Interest:</summary>
-   I love to be involved and explore technology like the emerging field of Artificial Intelligence which will probably be the next level technological era.
-</details>
+I specialize in **building AI-driven solutions** that transform unstructured data into actionable insights.  
+My expertise spans **NLP, Computer Vision, RAG systems, and AI-powered automation**, ensuring that models deliver **high accuracy and seamless integration** in production environments.
 
+---
 
-## 🛠 Skills
+## 📖 About Me  
+- 🎯 **Expert in NLP, AI Agents, and RAG-based applications**  
+- ⚙️ **Builds large-scale AI applications with FastAPI**  
+- 🤖 **Loves working on AI-driven automation, APIs, and intelligent assistants**  
+- 📊 **Passionate about AI research & model optimization**  
 
-- ### Artificial Intelligence leveraging the power of `Python` and Following:
+---
 
-![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![matplotlib](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
+## 🛠️ Tech Stack  
 
-**Machine Learning, Deep learning, Computer Vision**[.](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+### ✨ Machine Learning & AI  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFDA47?style=flat&logo=huggingface&logoColor=black)  
 
-- ### Website Developing
+### 🤖 NLP & AI Agents  
+![LangChain](https://img.shields.io/badge/-LangChain-3F7EA6?style=flat)  ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-blue?style=flat)  ![CrewAI](https://img.shields.io/badge/-CrewAI-eb6658?style=flat&logo=crewai&logoColor=white)  ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)  
 
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![js](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-## 💳 Github Profile Summary 
-![card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalahmadai&theme=github)
-
-[trophy](https://github-profile-trophy.vercel.app/?username=bilalahmadai)
-
-![]()
+### ⚙️ Backend & Deployment  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
 
 
-## 🔗 Get In Touch
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalahmadai/)
-[![github](https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilalahmadai)
+<!---
+
+ 
+## 📌 Featured Projects  
+### 📊 **AI-Driven Lead Generation Platform**  
+**Tech:** Web Scraping | CrewAI | RAG | Sentiment Analysis  
+✅ Analyzes **Glassdoor, LinkedIn, Reddit, Google News** to extract competitive insights.  
+🔗 [Repo Link](#)  
+
+### 📄 **Chat-Based Document Retrieval System**  
+**Tech:** LangChain | LlamaIndex | OpenAI | Pinecone  
+✅ Built a **RAG-powered chatbot** that extracts insights from large unstructured text datasets.  
+🔗 [Repo Link](#)  
+
+### 🖼️ **AI-Powered Image Processing APIs**  
+**Tech:** FastAPI | OpenAI BLIP | Mask R-CNN | Pinecone  
+✅ Developed APIs for **image captioning, metadata tagging, and road defect detection**.  
+🔗 [Repo Link](#)  
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalahmadai&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahmadai&layout=compact&theme=tokyonight)  
+-->
+
+---
+
+## 📫 Let's Connect  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/bilalahmadai)  [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/bilalahmadai)  [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:bilalahmadai.me@gmail.com)
+
+📌 **Let's build AI solutions that drive real impact!**
